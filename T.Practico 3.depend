@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1604783702 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\t.practico 3\parser.c
+
+1604878467 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\t.practico 3\employee.c
+	"Employee.h"
+
+1604878251 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\t.practico 3\employee.h
+
+1604880701 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\t.practico 3\controller.c
+	"Controller.h"
+	"LinkedList.h"
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+
+1604880838 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\t.practico 3\controller.h
+	"Employee.h"
+	"LinkedList.h"
+	"Parser.h"
+
+1604791285 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\t.practico 3\linkedlist.h
+
+1604791288 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\t.practico 3\parser.h
+
+1604880776 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\t.practico 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+
